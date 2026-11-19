@@ -87,15 +87,10 @@ struct LanYU: Developer {
 
 ---
 
-### 📊 GitHub stats
+### 📊 Top languages
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yulan&show_icons=true&hide_border=true&theme=transparent&title_color=F05138&icon_color=F05138&text_color=8b949e" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulan&layout=compact&hide_border=true&theme=transparent&title_color=F05138&text_color=8b949e" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yulan&hide_border=true&background=00000000&ring=F05138&fire=F05138&currStreakLabel=F05138&stroke=8b949e" alt="GitHub streak" />
 </div>
 
 ---
