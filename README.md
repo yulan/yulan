@@ -80,6 +80,7 @@ struct LanYU: Developer {
 
 | Project | Description | Stack |
 |---|---|---|
+| [**OpenWeatherMVVM-C**](https://github.com/yulan/OpenWeatherMVVM-C) | Weather + Instagram-style city stories, rebuilt with MVVM-C on Clean Architecture: compiler-enforced layers in a local SPM package, offline cache, zero third-party dependencies | Swift 6 · SwiftUI · `@Observable` · Swift Testing |
 | [**OpenWeatherTCATest**](https://github.com/yulan/OpenWeatherTCATest) | Weather app demonstrating data fetching and UI interactions with The Composable Architecture, backed by the OpenWeather API | Swift · TCA |
 | [**OodriveFoldersApplication**](https://github.com/yulan/OodriveFoldersApplication) | File-manager app: browse, create and delete folders, download files and open them in other apps | Swift |
 | [**MyWeatherApp**](https://github.com/yulan/MyWeatherApp) | A small weather application | Swift |
